@@ -1,0 +1,10 @@
+Roll,Name,Marks
+1,ak,1000.00
+2,kamal,89.90
+3,vj,0.00
+4,rajni,1000.00
+5,aandavar,100000.00
+6,kamal,100.00
+7,arjun,78.00
+8,vk,0.00
+9,sk,78.00
